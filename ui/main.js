@@ -5,5 +5,5 @@ element.innerHTML='haiiiii...this is geetha';
 
 var im=document.getElementById('madi');
 im.onclick=function(){
-    madi.style.marginleft='100px';
+    im.style.marginleft='100px';
 };
