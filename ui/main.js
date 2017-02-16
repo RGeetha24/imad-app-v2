@@ -3,7 +3,7 @@ console.log('Loaded!');
 var element=document.getElementById('maint');
 element.innerHTML='haiiiii...this is geetha';
 
-var im=document.getElementById('madi');
-im.onclick = function(){
-    im.style.marginLeft='200px';
+var img=document.getElementById('madi');
+img.onclick = function(){
+    img.style.marginLeft='200px';
 };
