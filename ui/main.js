@@ -1,5 +1,4 @@
-console.log('Loaded!');
-//change the text of main text div
+
 var button=document.getElementbyId('counter');
 var counter=0;
 button.onclick=function(){
