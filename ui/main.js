@@ -4,6 +4,6 @@ var element=document.getElementById('maint');
 element.innerHTML='haiiiii...this is geetha';
 
 var im=document.getElementById('madi');
-im.onclick=function(){
+im.onclick = function(){
     im.style.marginleft='200px';
 };
