@@ -9,8 +9,7 @@ var config = {
   database: 'rgeetha24',
   port:'5432'
 };
-var app = express();
-app.use(morgan('combined'));
+
 
 
 app.get('/', function (req, res) {
